@@ -1,2 +1,3 @@
-# Exercios em Python
+# Exercícios em Python
+ 
  Aprendendo Python
